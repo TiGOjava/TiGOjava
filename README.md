@@ -1,4 +1,4 @@
-# 🐢 About Me:
+# 🐘 TiGO:
 🍃 I’m currently working on Own version of Starbucks WebApp<br> 🔍 I’m looking for help with Spring development<br>🌱 I’m currently learning<br>💬 Ask me about programing<br>
 
 
