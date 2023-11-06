@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
 
-<h2 align="left">Hi 👋, I'm Rafal</h1>
+<h2 align="left">Hi 🥳, I'm Rafal</h1>
 <h4 align="left">A passionate backend developer from Poland</h3>
 
 <h4 align="left">CONNECT WITH ME:</h3>
