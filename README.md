@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
 
-[![MasterHead](undefined))](https://github.com/TiGOjava)
+[![MasterHead]([undefined](https://imgur.com/undefined)))](https://github.com/TiGOjava)
 <h2 align="left">RAFAL PUKALO</h1> 
  
 
