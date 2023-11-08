@@ -19,7 +19,7 @@
   </p>
 
 
-(https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
 
 # 🕵️‍♀️ STATS:
 ![](https://github-readme-stats.vercel.app/api?username=TiGOjava&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
