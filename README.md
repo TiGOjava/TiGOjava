@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
 
+ <img align="right" alt="Coding" width="400" src="add your link 
+  here">
+
 <h2 align="left">RAFAL PUKALO</h1> 
  
 
