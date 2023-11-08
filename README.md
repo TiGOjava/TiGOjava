@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
 
 <h2 align="left">RAFAL PUKALO</h1> 
-
+ 
 
 <h4 align="left">Backend developer from Poland 😜 </h3>
 
