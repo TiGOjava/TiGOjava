@@ -4,7 +4,7 @@
 <h2 align="left">RAFAL PUKALO</h1> 
  
 
-<h4 align="left">SMALL JAVA DEVELOPER FROM POLAND 😜 </h3> 
+<h4 align="left">SMALL JAVA DEVELOPER FROM POLAND 😜 </h3>
 
 
 <p align="left"> <a href="https://linkedin.com/in/krzysztof-garus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krzysztof-garus" height="30" width="40" /></a>
