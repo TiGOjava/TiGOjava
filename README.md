@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=//Hello;)](https://git.io/typing-svg)
  
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*9LpURd6x_QgHlsQM29Myew.png)](https://github.com/TiGOjava)    
 
