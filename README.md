@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
  
-[![MasterHead](https://miro.medium.com/v2/resize:fit:620/1*E494G5F0T5haZEOGas3UNQ.jpeg)](https://github.com/TiGOjava)    
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*9LpURd6x_QgHlsQM29Myew.png)](https://github.com/TiGOjava)    
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
